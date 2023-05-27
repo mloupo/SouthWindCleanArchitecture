@@ -1,0 +1,5 @@
+C:\Users\Zen\ITEC\AnalistaProgramador\3er\Diseño e Implementacion de Sistemas\SouthWindCleanArchitecture\SouthWind.Repositories.EFCore\obj\Debug\net5.0\SouthWind.Repositories.EFCore.csproj.AssemblyReference.cache
+C:\Users\Zen\ITEC\AnalistaProgramador\3er\Diseño e Implementacion de Sistemas\SouthWindCleanArchitecture\SouthWind.Repositories.EFCore\obj\Debug\net5.0\SouthWind.Repositories.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zen\ITEC\AnalistaProgramador\3er\Diseño e Implementacion de Sistemas\SouthWindCleanArchitecture\SouthWind.Repositories.EFCore\obj\Debug\net5.0\SouthWind.Repositories.EFCore.AssemblyInfoInputs.cache
+C:\Users\Zen\ITEC\AnalistaProgramador\3er\Diseño e Implementacion de Sistemas\SouthWindCleanArchitecture\SouthWind.Repositories.EFCore\obj\Debug\net5.0\SouthWind.Repositories.EFCore.AssemblyInfo.cs
+C:\Users\Zen\ITEC\AnalistaProgramador\3er\Diseño e Implementacion de Sistemas\SouthWindCleanArchitecture\SouthWind.Repositories.EFCore\obj\Debug\net5.0\SouthWind.Repositories.EFCore.csproj.CoreCompileInputs.cache

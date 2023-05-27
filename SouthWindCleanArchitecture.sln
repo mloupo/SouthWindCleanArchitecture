@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Enterprise Business Rules", "Enterprise Business Rules", "{D2F4B2F3-65E1-4C46-BDC7-AA58E0C09F29}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application Business Rules", "Application Business Rules", "{76F27FDB-BF34-459E-A2D0-D7EBC2398605}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interface Adapters", "Interface Adapters", "{7F356147-6B07-4FF2-BC4C-EEB77367F6B3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frameworks and Drivers", "Frameworks and Drivers", "{A509EAAD-CC82-45B3-926B-0C301ABE4E48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SouthWind.Entities", "SouthWind.Entities\SouthWind.Entities.csproj", "{4424B25D-AD7C-4047-BDF5-8512275791CF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gateways", "Gateways", "{E0923E5E-9E7B-489E-A73A-430D19F62B5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SouthWind.Repositories.EFCore", "SouthWind.Repositories.EFCore\SouthWind.Repositories.EFCore.csproj", "{DD03F960-951D-4EAF-BDD8-F4AA662C7C85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4424B25D-AD7C-4047-BDF5-8512275791CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4424B25D-AD7C-4047-BDF5-8512275791CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4424B25D-AD7C-4047-BDF5-8512275791CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4424B25D-AD7C-4047-BDF5-8512275791CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD03F960-951D-4EAF-BDD8-F4AA662C7C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD03F960-951D-4EAF-BDD8-F4AA662C7C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD03F960-951D-4EAF-BDD8-F4AA662C7C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD03F960-951D-4EAF-BDD8-F4AA662C7C85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4424B25D-AD7C-4047-BDF5-8512275791CF} = {D2F4B2F3-65E1-4C46-BDC7-AA58E0C09F29}
+		{E0923E5E-9E7B-489E-A73A-430D19F62B5C} = {7F356147-6B07-4FF2-BC4C-EEB77367F6B3}
+		{DD03F960-951D-4EAF-BDD8-F4AA662C7C85} = {E0923E5E-9E7B-489E-A73A-430D19F62B5C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {717030E8-B599-4430-8056-7A3D86993AAA}
+	EndGlobalSection
+EndGlobal

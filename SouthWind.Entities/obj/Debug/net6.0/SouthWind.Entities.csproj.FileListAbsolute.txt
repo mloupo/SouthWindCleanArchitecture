@@ -1,0 +1,14 @@
+C:\Users\Zen\ITEC\AnalistaProgramador\3er\Diseño e Implementacion de Sistemas\SouthWindCleanArchitecture\SouthWind.Entities\bin\Debug\net6.0\SouthWind.Entities.deps.json
+C:\Users\Zen\ITEC\AnalistaProgramador\3er\Diseño e Implementacion de Sistemas\SouthWindCleanArchitecture\SouthWind.Entities\bin\Debug\net6.0\SouthWind.Entities.runtimeconfig.json
+C:\Users\Zen\ITEC\AnalistaProgramador\3er\Diseño e Implementacion de Sistemas\SouthWindCleanArchitecture\SouthWind.Entities\bin\Debug\net6.0\SouthWind.Entities.dll
+C:\Users\Zen\ITEC\AnalistaProgramador\3er\Diseño e Implementacion de Sistemas\SouthWindCleanArchitecture\SouthWind.Entities\bin\Debug\net6.0\SouthWind.Entities.pdb
+C:\Users\Zen\ITEC\AnalistaProgramador\3er\Diseño e Implementacion de Sistemas\SouthWindCleanArchitecture\SouthWind.Entities\obj\Debug\net6.0\SouthWind.Entities.csproj.AssemblyReference.cache
+C:\Users\Zen\ITEC\AnalistaProgramador\3er\Diseño e Implementacion de Sistemas\SouthWindCleanArchitecture\SouthWind.Entities\obj\Debug\net6.0\SouthWind.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zen\ITEC\AnalistaProgramador\3er\Diseño e Implementacion de Sistemas\SouthWindCleanArchitecture\SouthWind.Entities\obj\Debug\net6.0\SouthWind.Entities.AssemblyInfoInputs.cache
+C:\Users\Zen\ITEC\AnalistaProgramador\3er\Diseño e Implementacion de Sistemas\SouthWindCleanArchitecture\SouthWind.Entities\obj\Debug\net6.0\SouthWind.Entities.AssemblyInfo.cs
+C:\Users\Zen\ITEC\AnalistaProgramador\3er\Diseño e Implementacion de Sistemas\SouthWindCleanArchitecture\SouthWind.Entities\obj\Debug\net6.0\SouthWind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Zen\ITEC\AnalistaProgramador\3er\Diseño e Implementacion de Sistemas\SouthWindCleanArchitecture\SouthWind.Entities\obj\Debug\net6.0\SouthWind.Entities.dll
+C:\Users\Zen\ITEC\AnalistaProgramador\3er\Diseño e Implementacion de Sistemas\SouthWindCleanArchitecture\SouthWind.Entities\obj\Debug\net6.0\refint\SouthWind.Entities.dll
+C:\Users\Zen\ITEC\AnalistaProgramador\3er\Diseño e Implementacion de Sistemas\SouthWindCleanArchitecture\SouthWind.Entities\obj\Debug\net6.0\SouthWind.Entities.pdb
+C:\Users\Zen\ITEC\AnalistaProgramador\3er\Diseño e Implementacion de Sistemas\SouthWindCleanArchitecture\SouthWind.Entities\obj\Debug\net6.0\SouthWind.Entities.genruntimeconfig.cache
+C:\Users\Zen\ITEC\AnalistaProgramador\3er\Diseño e Implementacion de Sistemas\SouthWindCleanArchitecture\SouthWind.Entities\obj\Debug\net6.0\ref\SouthWind.Entities.dll

@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Zen\\ITEC\\AnalistaProgramador\\3er\\Diseño e Implementacion de Sistemas\\SouthWindCleanArchitecture\\SouthWind.Entities\\SouthWind.Entities.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Zen\\ITEC\\AnalistaProgramador\\3er\\Diseño e Implementacion de Sistemas\\SouthWindCleanArchitecture\\SouthWind.Entities\\SouthWind.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Zen\\ITEC\\AnalistaProgramador\\3er\\Diseño e Implementacion de Sistemas\\SouthWindCleanArchitecture\\SouthWind.Entities\\SouthWind.Entities.csproj",
+        "projectName": "SouthWind.Entities",
+        "projectPath": "C:\\Users\\Zen\\ITEC\\AnalistaProgramador\\3er\\Diseño e Implementacion de Sistemas\\SouthWindCleanArchitecture\\SouthWind.Entities\\SouthWind.Entities.csproj",
+        "packagesPath": "C:\\Users\\Zen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Zen\\ITEC\\AnalistaProgramador\\3er\\Diseño e Implementacion de Sistemas\\SouthWindCleanArchitecture\\SouthWind.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Zen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0-preview.4.23259.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
